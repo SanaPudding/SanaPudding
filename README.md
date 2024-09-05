@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I am Junyang, currently a MSCS student at USC.
+- I am insterested in web and game development.
+- I like playing DOTA.
 <!--
 **SanaPudding/SanaPudding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
